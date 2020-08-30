@@ -1,6 +1,6 @@
 pragma solidity 0.4.22 <= 0.6.12;
 
-contract ResturantBills{
+contract TrainTicket{
     
     string TrainName;
     string TrainId;
