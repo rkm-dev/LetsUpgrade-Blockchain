@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------------------------------------------------------------------
-// Transaction pending in Ropsten network, stuck at pending state, so changed to Goerli network, trn url and contract hash submitted below
+// Transaction pending in Ropsten network, stuck at pending state, so changed to Goerli network, txn url and contract hash submitted below
 //
 // Transaction URL : https://goerli.etherscan.io/tx/0xa8889008db34e9541c9191dc75311113dfb7a521558dd1170a3f39f48f2be279
 // Contract hash   : 0x5c3db7becfa83b6b2738721f624bccb1de292b1f
